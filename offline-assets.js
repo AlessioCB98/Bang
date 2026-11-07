@@ -1,0 +1,25 @@
+self.OFFLINE_VERSION = "1";
+self.OFFLINE_FILES = [
+  "./",
+  "index.html",
+  "style.css",
+  "app.js",
+  "cards.js",
+  "app.webmanifest",
+  "icons/app-192.png",
+  "icons/app-512.png",
+  "icons/bang.svg",
+  "icons/birra.svg",
+  "icons/emporio.svg",
+  "icons/gatling.svg",
+  "icons/indiani.svg",
+  "icons/mancato.svg",
+  "icons/panico.svg",
+  "audio/bang.wav",
+  "audio/birra.wav",
+  "audio/emporio.wav",
+  "audio/gatling.wav",
+  "audio/indiani.wav",
+  "audio/mancato.wav",
+  "audio/panico.wav"
+];

@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "BANG! · Campionario suoni",
+  "short_name": "BANG!",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#201412",
+  "background_color": "#201412",
+  "icons": [
+    { "src": "icons/app-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/app-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
